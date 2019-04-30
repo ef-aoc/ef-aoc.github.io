@@ -1,4 +1,4 @@
-# Eternal Flame - Age of Calamitous
+# Age of Calamitous
 This fork is to track information for the Age of Calimitous mod for Conan Exiles. 
 
 # MapConan
