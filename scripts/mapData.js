@@ -1637,7 +1637,7 @@
 
 
 		//Locations - AoC Bosses
-		L.marker([-1509,1703], {icon: bossIcon}).bindPopup("Akuma").addTo(bossGroup),
+		L.marker([-1509,1060], {icon: bossIcon}).bindPopup("Akuma").addTo(bossGroup),
 
 
 		//Locations - Lore
