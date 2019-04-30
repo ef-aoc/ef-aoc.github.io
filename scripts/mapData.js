@@ -1636,6 +1636,10 @@
 		L.marker([-2751.75,1024], {icon: bossIcon}).bindPopup("Flame Guardian").addTo(bossGroup),
 
 
+		//Locations - AoC Bosses
+		L.marker([-1509,1703], {icon: bossIcon}).bindPopup("Akuma").addTo(bossGroup),
+
+
 		//Locations - Lore
 		
 		
